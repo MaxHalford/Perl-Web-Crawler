@@ -1,0 +1,17 @@
+Archives => /wiki/Wikinews:Archives
+Creative Commons Attribution  => //creativecommons.org/licenses/by/2.5/
+Développeurs => https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute
+Actualiser la page => //fr.wikinews.org/w/index.php?title=Br%C3%A8ves_:_16_janvier_2011&action=purge
+Accueil communauté => /wiki/Wikinews:Accueil
+Télécharger comme PDF => /w/index.php?title=Sp%C3%A9cial:Livre&bookcmd=render_article&arttitle=Br%C3%A8ves+%3A+16+janvier+2011&oldid=320210&writer=rdf2latex
+Créer un livre => /w/index.php?title=Sp%C3%A9cial:Livre&bookcmd=book_creator&referer=Br%C3%A8ves+%3A+16+janvier+2011
+USGS => http://earthquake.usgs.gov/earthquakes/recenteqsww//Quakes/usc00013li.php
+http => http://fr.wikinews.org/w/index.php?title=Brèves_:_16_janvier_2011&oldid=320210
+Contacter Wikinews => /wiki/Wikinews:Contact
+Wikinews sur IRC => /wiki/Wikinews:IRC
+rechercher => #p-search
+navigation => #mw-head
+Annonces => /wiki/Wikinews:Annonces
+Lire => /wiki/Br%C3%A8ves_:_16_janvier_2011
+Quiz => /wiki/Wikinews:Quiz
+Portails thématiques => /wiki/Page:Sommaire

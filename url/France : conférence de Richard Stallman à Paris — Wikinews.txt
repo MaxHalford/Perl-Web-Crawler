@@ -1,0 +1,21 @@
+rechercher => #p-search
+Wikinews sur IRC => /wiki/Wikinews:IRC
+Annonces => /wiki/Wikinews:Annonces
+navigation => #mw-head
+Lire => /wiki/France_:_conf%C3%A9rence_de_Richard_Stallman_%C3%A0_Paris
+Quiz => /wiki/Wikinews:Quiz
+Portails thématiques => /wiki/Page:Sommaire
+télécharger un lecteur => https://www.mediawiki.org/wiki/Special:MyLanguage/Extension:TimedMediaHandler/Client_download
+Reporting about Virginia tech en  => http://vt.freeculture.org/2008/03/17/richard-stallman-copyright-vs-community/
+Estimation des ordinateurs GNU => http://hackurx.wordpress.com/2010/10/12/estimation-des-ordinateurs-gnulinux/
+Archives => /wiki/Wikinews:Archives
+Le CRI est financé par la Fondation Bettencourt Schueller => http://www.cri-paris.org/en/cri/
+Creative Commons Attribution  => //creativecommons.org/licenses/by/2.5/
+Développeurs => https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute
+Télécharger comme PDF => /w/index.php?title=Sp%C3%A9cial:Livre&bookcmd=render_article&arttitle=France+%3A+conf%C3%A9rence+de+Richard+Stallman+%C3%A0+Paris&oldid=261722&writer=rdf2latex
+Accueil communauté => /wiki/Wikinews:Accueil
+télécharger le clip => //upload.wikimedia.org/wikipedia/commons/e/e9/Free_Software_Song_Bulgarian_Style.ogg
+http => http://fr.wikinews.org/w/index.php?title=France_:_conférence_de_Richard_Stallman_à_Paris&oldid=261722
+Description exacte et détaillée de la philosophie GNU en français => http://www.gnu.org/philosophy/free-sw.fr.html
+Créer un livre => /w/index.php?title=Sp%C3%A9cial:Livre&bookcmd=book_creator&referer=France+%3A+conf%C3%A9rence+de+Richard+Stallman+%C3%A0+Paris
+Contacter Wikinews => /wiki/Wikinews:Contact

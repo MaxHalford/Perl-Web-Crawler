@@ -114,6 +114,8 @@ my $fichier = &select_file(SelDir=>1, TopDir=>"/home");
 $fichier =~ /(.+\/).*/;
 my $path = $1;
 
+print 'lol';
+
 # Les liens du fichier seléctionné sont stockés
 open FILE, "<", $fichier or die $!;
 my @liens = <FILE>;
@@ -146,7 +148,7 @@ foreach my $lien (@liens) {
 	if ($getLiens) {
 		my %liens = maxhtmlparsing::liens($contenu);
 		#Sauvegardons les liens récupérés
-		open my $fichierLiens, '>', "$path/Liens/$titre.txt" or die $!;
+		open my $fichierLiens, '>', "$path/url/$titre.txt" or die $!;
 		foreach my $key (keys %liens) {
 			print {$fichierLiens} "$key => $liens{$key}\n";
 		}
